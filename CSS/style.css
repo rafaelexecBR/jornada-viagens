@@ -43,3 +43,7 @@ h1 {
 
   font-weight: var(--titles-weigth);
 }
+
+header {
+  background-color: black;
+}
